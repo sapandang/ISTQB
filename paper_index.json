@@ -1,3 +1,7 @@
 {
-  "paper1": "https://raw.githubusercontent.com/sapandang/ISTQB/master/paper1.xls"
+  "version": 2,
+  "paper": [
+    "https://raw.githubusercontent.com/sapandang/ISTQB/master/paper1.xls",
+    "https://raw.githubusercontent.com/sapandang/ISTQB/master/paper1.xls"
+  ]
 }
